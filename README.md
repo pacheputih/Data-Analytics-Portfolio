@@ -5,7 +5,7 @@ Hi, I'm Febri Ridho Baharianto! I have a strong analytical background in Data An
 
 Since 2022, I’ve mentored and led students in the Full Stack Data Analytics program at RevoU. This experience has honed my ability to guide teams in working with complex datasets, identifying patterns, and interpreting trends. I am also proficient in a variety of tools and technologies commonly used in Data Analytics, including Python, Google BigQuery, Tableau, PowerBI, Alteryx, Talend, and RStudio.
 
-Feel free to check out my full resume [link to resume], and explore this repository, where I showcase my skills, share projects, and track my progress in Data Analytics and Data Science.
+Feel free to check out my [resume](https://github.com/pacheputih/Data-Analytics-Portfolio/blob/main/Resume%202024.pdf), and explore this repository, where I showcase my skills, share projects, and track my progress in Data Analytics and Data Science.
 
 ## Table of Content
 - [About Me](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#about-me)
@@ -84,6 +84,8 @@ Feel free to check out my full resume [link to resume], and explore this reposit
 
 **Technology**: Google Spreadsheets, XLMiner
 
+**Documentation**: [click here](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main/Google%20Sheets%20-%20Malaysian%20Housing%20Price%20Analysis#malaysian-condominium-prices-analysis)
+
 **Key Findings**:
 - Condominiums in urban areas (e.g., Kuala Lumpur) tend to have a higher price per square foot compared to those in suburban or rural regions.
 - There is a **moderate correlation** between the size of the condominium and its price, indicating that larger properties generally have a higher price, but other factors also play a significant role.
@@ -91,7 +93,7 @@ Feel free to check out my full resume [link to resume], and explore this reposit
 
 ## Experience
 - Classroom Manager for AI for Data Analytics Program, at RevoU
-    - Remote, Sep 2024 - current
+    - Remote, Sep 2024 - present
     - Job Description:
         - Managing the administrative and front-end function of an AI for Data Analytics program for professional
         - Participate in reviewing the curriculum of the program
