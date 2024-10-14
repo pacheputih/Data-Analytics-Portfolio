@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Febri Ridho Baharianto
 
 ## About Me
@@ -148,3 +149,7 @@ Feel free to check out my full resume [link to resume], and explore this reposit
 ## Contacts
 - [Linkedin Profile](https://www.linkedin.com/in/baharianto/)
 - Email: bahariantore@gmail.com
+=======
+# Data-Analytics-Portfolio
+A showcase of my projects in Data Analytics
+>>>>>>> abf91218945471f1c037d0d22406535b22580f38
