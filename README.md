@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Febri Ridho Baharianto
 
 ## About Me
@@ -9,25 +8,27 @@ Since 2022, I’ve mentored and led students in the Full Stack Data Analytics pr
 Feel free to check out my full resume [link to resume], and explore this repository, where I showcase my skills, share projects, and track my progress in Data Analytics and Data Science.
 
 ## Table of Content
-- About Me
-- Poftfolio Projects
+- [About Me](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#about-me)
+- [Portfolio Projects]
     - Python
-        - RevoBank Customer Segmentation and Propensity Modelling
-        - Automation Script for Data Diagnosing & Cleaning
-    - SQL (Google Big Query)
+        - [RevoBank Customer Segmentation and Propensity Modelling](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#revobank-customer-segmentation-and-propensity-modelling)
+        - [Automation Script for Data Diagnosing & Cleaning](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#automation-script-for-data-diagnosing--cleaning)
+    - [SQL (Google Big Query)](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#google-bigquery-sql-query-portfolio)
         - Iowa Liquor Sales queries
         - The Look E-commerce queries
         - NCAA Basketball
     - Google Spreadsheet
-        - Malaysian Housing Prices Analysis
-- Experience
-- Contact
+        - [Malaysian Housing Prices Analysis](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#malaysian-condominium-prices-analysis)
+- [Experience](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#experience)
+- [Contact](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#contacts)
 
 ## Portfolio Projects
 ### RevoBank Customer Segmentation and Propensity Modelling
 **Description**: This project focuses on analyzing a bank customer dataset to understand customer behaviors, segment them into groups, and predict customer propensity for a financial product (e.g., a loan or a credit card). The analysis covers **Exploratory Data Analysis (EDA)**, customer **segmentation**, and building a **propensity model** to identify promising customers.
 
 **Technology**: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+
+**Documentation**: [click here](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main/Google%20Colab%20-%20RevoBank%20Customer%20Segmentation%20and%20Propensity%20Model#bank-customer-analysis)
 
 **Key Findings**:
 - Customers with higher frequency and monetary values are more likely to accept product offers.
@@ -38,6 +39,8 @@ Feel free to check out my full resume [link to resume], and explore this reposit
 **Description**: This project automates the some of data cleaning process, saving time and effort for businesses that handle large datasets. The script handles duplicates, detect missing values and outliers
 
 **Technology**: Python, Shell scripting, Git
+
+**Documentation**: [click here](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main/Python%20-%20Data%20Cleaning%20Automation#automated-data-cleaning-script)
 
 **Scope**:
 - Handling duplicates
@@ -52,6 +55,7 @@ Feel free to check out my full resume [link to resume], and explore this reposit
 **Key Findings**:
 1. **iowa_liquor_sales.sql**: 
    - This query analyzes trends in liquor sales across different counties in Iowa.
+   - Code: [click here]()
    - Key Insights:
      - Total sales by city
      - Average weekly sales per store
@@ -149,7 +153,3 @@ Feel free to check out my full resume [link to resume], and explore this reposit
 ## Contacts
 - [Linkedin Profile](https://www.linkedin.com/in/baharianto/)
 - Email: bahariantore@gmail.com
-=======
-# Data-Analytics-Portfolio
-A showcase of my projects in Data Analytics
->>>>>>> abf91218945471f1c037d0d22406535b22580f38
