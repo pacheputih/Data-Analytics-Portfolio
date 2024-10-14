@@ -19,6 +19,7 @@ The following public datasets were used in the SQL queries:
 
 1. **iowa_liquor_sales.sql**: 
    - This query analyzes trends in liquor sales across different counties in Iowa.
+   - code: [click here](https://github.com/pacheputih/Data-Analytics-Portfolio/blob/main/Google%20BigQuery%20-%20Projects/iowa_liquor_sales.sql)
    - Key Insights:
      - Total sales by city
      - Average weekly sales per store
@@ -29,11 +30,13 @@ The following public datasets were used in the SQL queries:
 
 2. **ncaa_basketball.sql**:
    - This query examines team and player performance across NCAA basketball seasons.
+   - code: [click here](https://github.com/pacheputih/Data-Analytics-Portfolio/blob/main/Google%20BigQuery%20-%20Projects/ncaa_basketball.sql)
    - Key Insights:
      - Top scorer within certain match and season
 
 3. **thelook_ecommerce.sql**:
    - This query investigates customer behavior and sales performance in a fictional e-commerce store.
+   - code: [click here](https://github.com/pacheputih/Data-Analytics-Portfolio/blob/main/Google%20BigQuery%20-%20Projects/thelook_ecommerce.sql)
    - Key Insights:
      - Monthly users behavior based on orders
      - Monthly performance based on average order value and number of customer

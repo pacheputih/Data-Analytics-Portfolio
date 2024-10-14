@@ -9,7 +9,7 @@ Feel free to check out my full resume [link to resume], and explore this reposit
 
 ## Table of Content
 - [About Me](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#about-me)
-- [Portfolio Projects]
+- Portfolio Projects
     - Python
         - [RevoBank Customer Segmentation and Propensity Modelling](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#revobank-customer-segmentation-and-propensity-modelling)
         - [Automation Script for Data Diagnosing & Cleaning](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#automation-script-for-data-diagnosing--cleaning)
@@ -52,10 +52,11 @@ Feel free to check out my full resume [link to resume], and explore this reposit
 
 **Technology**: SQL, GoogleBigQuery
 
+**Documentation**: [click here](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main/Google%20BigQuery%20-%20Projects#google-bigquery-sql-query-portfolio)
+
 **Key Findings**:
 1. **iowa_liquor_sales.sql**: 
    - This query analyzes trends in liquor sales across different counties in Iowa.
-   - Code: [click here]()
    - Key Insights:
      - Total sales by city
      - Average weekly sales per store
