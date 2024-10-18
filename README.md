@@ -89,6 +89,7 @@ Feel free to check out my [resume](https://github.com/pacheputih/Data-Analytics-
 **Documentation**: [click here](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main/Tableau%20Public%20-%20Olist%20Ecommerce%20Sales%20Dashboard#olist-sales-analytics-dashboards)
 
 **How to Use**
+- Dashboard can be accessed online with [this link](https://public.tableau.com/views/OlistDashboards/Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Navigate between dashboards to explore different insights.
 - Use the filters on each dashboard to customize the data view, allowing for a more granular analysis of sales and customer behaviors based on quarter, date range, location, product category, and payment type.
 
