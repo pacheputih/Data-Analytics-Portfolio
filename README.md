@@ -17,6 +17,8 @@ Feel free to check out my [resume](https://github.com/pacheputih/Data-Analytics-
         - Iowa Liquor Sales queries
         - The Look E-commerce queries
         - NCAA Basketball
+    - Tableau
+        - [Olist Ecommerce Sales Dashboard]()
     - Google Spreadsheet
         - [Malaysian Housing Prices Analysis](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#malaysian-condominium-prices-analysis)
 - [Experience](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#experience)
@@ -78,6 +80,17 @@ Feel free to check out my [resume](https://github.com/pacheputih/Data-Analytics-
      - Finding user's first and last name based on age
      - Top 5 most profitable products
      - Month-to-date of Total Revenue
+
+### Olist Sales Analytics Dashboards
+**Description**: This project contains a series of dashboards designed to provide comprehensive insights into Olist's sales performance, customer retention, and deeper sales metrics. These dashboards are built to help analyze various sales aspects and customer behaviors, offering valuable business insights for decision-making.
+
+**Technology**: Tableau Public
+
+**Documentation**: [click here](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main/Tableau%20Public%20-%20Olist%20Ecommerce%20Sales%20Dashboard#olist-sales-analytics-dashboards)
+
+**How to Use**
+- Navigate between dashboards to explore different insights.
+- Use the filters on each dashboard to customize the data view, allowing for a more granular analysis of sales and customer behaviors based on quarter, date range, location, product category, and payment type.
 
 ### Malaysian Condominium Prices Analysis
 **Description**: This project analyzes the price trends of condominiums in Malaysia using **Google Spreadsheets**. The dataset includes key metrics such as property location, square footage, price per square foot, and other relevant features to provide insights into the real estate market. This analysis can be used by potential investors, real estate agents, or home buyers to understand market dynamics and pricing trends.
