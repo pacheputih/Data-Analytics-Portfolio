@@ -18,7 +18,7 @@ Feel free to check out my [resume](https://github.com/pacheputih/Data-Analytics-
         - The Look E-commerce queries
         - NCAA Basketball
     - Tableau
-        - [Olist Ecommerce Sales Dashboard]()
+        - [Olist Ecommerce Sales Dashboard](https://github.com/pacheputih/Data-Analytics-Portfolio#olist-sales-analytics-dashboards)
     - Google Spreadsheet
         - [Malaysian Housing Prices Analysis](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#malaysian-condominium-prices-analysis)
 - [Experience](https://github.com/pacheputih/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#experience)
