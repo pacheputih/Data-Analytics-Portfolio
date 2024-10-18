@@ -8,6 +8,7 @@ This project contains a series of dashboards designed to provide comprehensive i
 - **Data Visualization**: Create visualization necessary to overview the sales and the demographics. Finalized the visualization into Dashboard and apply interactive filters.
 
 ## Dashboards
+All dashboards can be accessed [here](https://public.tableau.com/views/OlistDashboards/Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ### 1. Olist Sales Dashboard
 This dashboard provides an overview of key sales metrics and customer growth, tracking performance over time. The visualizations included allow users to monitor total sales, average order value (AOV), and customer growth, with insights into quarter-over-quarter (QoQ) changes and quarterly growth trends. Additionally, a line chart presents the number of orders for each quarter.
 
